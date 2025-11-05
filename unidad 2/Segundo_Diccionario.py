@@ -42,7 +42,6 @@ biblioteca = {
         "géneros": ["Romance", "Clásico"]
     }
 }
-
 isbn = "978-84-376-0494-7"
 info_libro = biblioteca.get(isbn)          
 print("\nInformación del libro:", info_libro)
